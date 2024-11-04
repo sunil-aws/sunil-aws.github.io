@@ -39,7 +39,7 @@ function NavBar() {
     >
       <Container>
         <Navbar.Brand href="/" className="d-flex">
-          <p>Sunil</p>
+          <h3 className="brand-name"> &lt; Sunil &gt; </h3>
         </Navbar.Brand>
 
         <Navbar.Toggle
